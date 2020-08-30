@@ -1,0 +1,12 @@
+{
+  "name": "egg_programming_language",
+  "version": "1.0.0",
+  "description": "Program for implementing a programming language called EGG",
+  "main": "evaluate_code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavlo Semchyshyn",
+  "license": "ISC",
+  "type": "module"
+}
