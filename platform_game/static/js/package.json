@@ -1,0 +1,12 @@
+{
+  "name": "platform_game",
+  "version": "1.0.0",
+  "description": "A simple 2-d browser game",
+  "main": "level.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavlo Semchyshyn",
+  "license": "ISC",
+  "type": "module"
+}
